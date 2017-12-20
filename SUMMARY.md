@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [快速上手](./doc/handbook/tutorials/README.md)
   * [5分钟了解TypeScript](./doc/handbook/tutorials/TypeScript in 5 minutes.md)
   * [ASP.NET Core](./doc/handbook/tutorials/ASP.NET Core.md)
