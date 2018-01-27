@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/zhongsp/TypeScript.svg?branch=master)](https://travis-ci.org/zhongsp/TypeScript) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+> 本开源书 forked from [TypeScript Handbook（中文版](https://github.com/zhongsp/TypeScript)，作者为 [zhongsp](https://github.com/zhongsp)，欢迎大家 star 原作者的 [repo](https://github.com/zhongsp/TypeScript)，以便获得最新更新，谢谢！
+
 <img src="./misc/ts_logo.jpg" alt="TypeScript" width="24px" height="24px" style="vertical-align: bottom;">  [TypeScript 2.6 (October 31, 2017)](https://blogs.msdn.microsoft.com/typescript/2017/10/31/announcing-typescript-2-6/)
 
 TypeScript是JavaScript的超集并且能够编译输出为纯粹的JavaScript.
